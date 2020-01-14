@@ -1,12 +1,11 @@
-# Original project by 
-Vas. [original Repo](https://github.com/kas/percentage)
-
 # Changes
 - Font size is now bigger, can be comfortably read on hd screens
 - Font is not blurry
 - The tray icon now updates every 2 minutes instead of every second
 - Tooltip shows remaining time when not charging
 - Colour changes to green when charging and red when battery percent drops below 30
+
+- compiled on VS17
 
 # percentage
 
@@ -24,6 +23,5 @@ See your battery percentage in the Windows 10 system tray
 
 This project was compiled with Visual Studio Professional 2015.
 
-## Contributing
-
-I created this project with a very basic understanding of developing C# desktop applications and contributions are extremely welcome!
+# Original project by Vas. 
+[original Repo](https://github.com/kas/percentage)
