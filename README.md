@@ -1,3 +1,13 @@
+# Original project by 
+Vas. [original Repo](https://github.com/kas/percentage)
+
+# Changes
+- Font size is now bigger, can be comfortably read on hd screens
+- Font is not blurry
+- The tray icon now updates every 2 minutes instead of every second
+- Tooltip shows remaining time when not charging
+- Colour changes to green when charging and red when battery percent drops below 30
+
 # percentage
 
 ![](https://raw.githubusercontent.com/kas/percentage/master/percentage.png)
